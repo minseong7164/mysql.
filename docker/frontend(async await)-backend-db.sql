@@ -1,0 +1,1 @@
+SELECT * FROM clinic_db.student_tb;
